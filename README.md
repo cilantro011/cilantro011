@@ -1,19 +1,33 @@
-# Hi there, I'm CIL 👋
+# Hi, I’m CIL 👋  
+*Junior @ UTA • Computer Science • builder of tiny chaotic things*
 
-I'm a passionate developer who loves building innovative solutions and contributing to open-source projects.
+<!-- Spotlight: Spotify Now Playing -->
+<div align="center">
+  <a href="https://cil-spotify-status.onrender.com" target="_blank">
+    <img src="https://cil-spotify-status.onrender.com?highlight=1"
+         alt="Now Playing — click to open"
+         width="820">
+  </a>
+  <br/>
+  <sub>click the banner ↑ to see what I’m listening to</sub>
+</div>
 
-## 🌱 What I'm currently working on
-- Working on some exciting projects in the field of AI and machine learning.
-- Contributing to various open-source projects.
+<!-- optional separator -->
+<hr/>
 
-## 🔭 What I'm looking to collaborate on
-- Open-source projects in need of contributors.
-- Innovative projects that leverage AI and machine learning.
+> caffeine + commits + “Cigarettes After Sex” on repeat
 
-## 💬 Ask me about
-- AI and machine learning
-- Open-source contribution
-- Software development best practices
+## what I’m up to
+- **Pi-CCTV (cat edition):** Raspberry Pi + webcam + “is that Mimi or Momo?”  `Raspberry Pi · Python · OpenCV-ish · DIY`
+- **Cil Linktree — Spotify Now Playing** — a minimal, dark, cyber-goth link-in-bio that shows your live Spotify track.  
+  `Flask · Spotipy · HTML/CSS/JS`
 
-## ⚡ Fun fact
-- I love experimenting with new technologies and staying updated with the latest trends in the tech world.
+- Portfolio: _coming soon (probably deployed at 3 a.m.)_
+
+### 🎵 Now Playing (usually)
+- “Soft, hazy, heart-heavy” 🤍 — CAS  
+- “Poetic Nepali soul” 🌿 — Bartika
+
+## semi-FAQ
+**Favorite debugger?** a friend looking over my shoulder
+**Matcha? Yes 
