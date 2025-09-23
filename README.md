@@ -1,18 +1,16 @@
 # Hi, I’m CIL 👋  
 *Junior @ UTA • Computer Science • builder of tiny chaotic things*
 
-<!-- Spotlight: Spotify Now Playing -->
 <div align="center">
+ 
   <a href="https://cil-spotify-status.onrender.com" target="_blank">
-    <img src="https://cil-spotify-status.onrender.com?highlight=1"
-         alt="Now Playing — click to open"
-         width="820">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=900&center=true&vCenter=true&width=600&lines=🎵+NOW+PLAYING;click+to+open" alt="Now Playing — click to open"/>
   </a>
-  <br/>
-  <sub>click the banner ↑ to see what I’m listening to</sub>
+  <br/><br/>
+  <a href="https://cil-spotify-status.onrender.com" target="_blank">
+    <img src="https://cil-spotify-status.onrender.com" alt="Spotify Now Playing" width="880"/>
+  </a>
 </div>
-
-<!-- optional separator -->
 <hr/>
 
 > caffeine + commits + “Cigarettes After Sex” on repeat
@@ -29,5 +27,5 @@
 - “Poetic Nepali soul” 🌿 — Bartika
 
 ## semi-FAQ
-**Favorite debugger?** a friend looking over my shoulder
-**Matcha? Yes 
+-**Favorite debugger?** a friend looking over my shoulder
+-**Matcha?** Yes 
