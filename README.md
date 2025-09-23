@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://cil-spotify-status.onrender.com" target="_blank">
-    <img src="assets/nowPlaying.png" alt="Now Playing — click to open" width="900">
+    <img src="assets/now-playing-hero.svg" alt="Now Playing — click to open" width="900">
   </a>
 </p>
 
