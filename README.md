@@ -1,17 +1,12 @@
 # Hi, I’m CIL 👋  
 *Junior @ UTA • Computer Science • builder of tiny chaotic things*
 
-<div align="center">
- 
+<p align="center">
   <a href="https://cil-spotify-status.onrender.com" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=900&center=true&vCenter=true&width=600&lines=🎵+NOW+PLAYING;click+to+open" alt="Now Playing — click to open"/>
+    <img src="assets/nowPlaying.png" alt="Now Playing — click to open" width="900">
   </a>
-  <br/><br/>
-  <a href="https://cil-spotify-status.onrender.com" target="_blank">
-    <img src="https://cil-spotify-status.onrender.com" alt="Spotify Now Playing" width="880"/>
-  </a>
-</div>
-<hr/>
+</p>
+
 
 > caffeine + commits + “Cigarettes After Sex” on repeat
 
