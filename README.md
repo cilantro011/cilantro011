@@ -11,7 +11,7 @@
 > caffeine + commits + “Cigarettes After Sex” on repeat
 
 ## what I’m up to
-- **FixiePixie: ** 📷 ➜ 📍 ➜ 📬 for city fixes. `Node.js · OAuth · JWT · bcryptjs · Nodemailer · SQLite · OpenStreetMap · HTML/CSS/JS`
+- **FixiePixie:** 📷 ➜ 📍 ➜ 📬 for city fixes. `Node.js · OAuth · JWT · bcryptjs · Nodemailer · SQLite · OpenStreetMap · HTML/CSS/JS`
 - **Pi-CCTV (cat edition):** Raspberry Pi + webcam + “is that Mimi or Momo?”  `Raspberry Pi · Python · OpenCV-ish · DIY`
 - **Cil Linktree — Spotify Now Playing** — a minimal, dark, cyber-goth link-in-bio that shows your live Spotify track.  
   `Flask · Spotipy · HTML/CSS/JS`
